@@ -1,0 +1,4 @@
+{
+    "javascript.suggest.autoimport":true,
+    "typescript.suggest.autoimport":true
+}
